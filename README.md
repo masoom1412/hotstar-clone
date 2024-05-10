@@ -1,5 +1,4 @@
 # PREVIEW
 
-<video width="320" height="240" controls>
-  <source src="hs-video.mp4" type="video/mp4">
-</video>
+http://0x0.st/X8yO.mp4
+
